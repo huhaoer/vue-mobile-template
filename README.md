@@ -24,7 +24,7 @@ yarn test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 安装amfe-flexible,适配移动端
-yarn add amfe-flexible
+yarn add amfe-flexible 
 
 ### 安装postcss-pxtorem,根据设计稿转换px到rem为单位
 yarn add postcss-pxtorem
